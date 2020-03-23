@@ -2,5 +2,5 @@ this is brach test
 <<<<<<< HEAD
 merge testing upper
 =======
-merge testing below
+merge testing upper
 >>>>>>> master
