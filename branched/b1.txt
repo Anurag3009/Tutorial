@@ -1,2 +1,6 @@
 this is brach test
+<<<<<<< HEAD
 merge testing upper
+=======
+merge testing below
+>>>>>>> master
